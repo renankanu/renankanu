@@ -1,6 +1,6 @@
-# Renan Santos  💻
+# Renan Santos 💻
 
-[![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail&logoColor=whitesmoke&labelColor=grey)](renankanu@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-black?logo=gmail&logoColor=whitesmoke&labelColor=grey)](mailto:renankanu@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-black?logo=linkedin&logoColor=whitesmoke&labelColor=grey)](https://www.linkedin.com/in/renansantosbr/) [![Linkedin](https://img.shields.io/badge/-Renankanu-black?logo=tor&logoColor=whitesmoke&labelColor=grey)](https://www.renankanu.com.br)
 
 
