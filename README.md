@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-Linkedin-black?logo=linkedin&logoColor=whitesmoke&labelColor=grey)](https://www.linkedin.com/in/renansantosbr/) [![Linkedin](https://img.shields.io/badge/-Renankanu-black?logo=tor&logoColor=whitesmoke&labelColor=grey)](https://www.renankanu.com.br)
 
 
-## Hi! 👋 Welcome to my profile!
+<h2>Hi! 👋 Welcome to my profile!</h2>
 
 ## Things I do
 📱 Mobile Developer | React Native | JavaScript<br>
