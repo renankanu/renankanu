@@ -7,7 +7,7 @@
 <h2>Hi! 👋 Welcome to my profile!</h2>
 
 ## Things I do
-📱 Mobile Developer | React Native | JavaScript<br>
-🌎 English student(Beginner)<br>
-🔧 Use automation to increase productivity<br>
-💼 Work remotely<br>
+📱  Mobile Developer | React Native | JavaScript<br>
+🌎  English student(Beginner)<br>
+🔧  Use automation to increase productivity<br>
+💼  Work remotely<br>
