@@ -10,11 +10,26 @@
 ## I'm a Mobile Developer.
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="React Native" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 
-<img align="left" alt="Kotlin" width="26px" src="https://user-images.githubusercontent.com/7094345/89126407-d2dea180-d4bb-11ea-8bb7-f7f394f840a9.png" />
-<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
 
+<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1200px-Kotlin-logo.svg.png" />
+
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png" />
+
+<img align="left" alt="Flutter" width="26px" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" />
+
+<img align="left" alt="PHP" height="26px" src="https://www.php.net/images/logos/new-php-logo.svg" />
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+
+<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
+
+<img align="left" alt="AS" width="26px" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png" />
+
+<br />
+<br />
 
 
 <img align="left" alt="renankanu Github Stats" src="https://github-readme-stats.vercel.app/api?username=renankanu&show_icons=true&theme=dracula" />
