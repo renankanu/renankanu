@@ -40,9 +40,9 @@
 <br />
 
 
-<img align="left" alt="renankanu Github Stats" src="https://github-readme-stats.vercel.app/api?username=renankanu&show_icons=true&theme=dracula" />
+<img alt="renankanu Github Stats" src="https://github-readme-stats.vercel.app/api?username=renankanu&show_icons=true&theme=dracula" />
 
 <br />
 <br />
 
-<img align="left" alt="enankanu Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renankanu&layout=compact&theme=dracula">
+<img alt="enankanu Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renankanu&layout=compact&theme=dracula">
