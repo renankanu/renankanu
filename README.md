@@ -37,8 +37,6 @@
 <img style="background-color:white;padding:2px;" alt="Next.js" width="26px" src="https://nextjs.org/static/favicon/safari-pinned-tab.svg" />
 
 <br />
-<br />
-
 
 <img alt="renankanu Github Stats" src="https://github-readme-stats.vercel.app/api?username=renankanu&show_icons=true&theme=dracula" />
 
@@ -46,3 +44,4 @@
 <br />
 
 <img alt="enankanu Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renankanu&layout=compact&theme=dracula">
+
