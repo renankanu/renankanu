@@ -37,7 +37,7 @@
 <br />
 
 ### Learning
-<img align="left" alt="nextjs" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
+<img alt="nextjs" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg" />
 
 <br />
 
