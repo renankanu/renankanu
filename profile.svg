@@ -1,0 +1,207 @@
+<svg viewBox="0 0 900 1200" width="900" height="1200" xmlns="http://www.w3.org/2000/svg">
+
+<foreignObject width="100%" height="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+      @keyframes rotate {
+        0% {
+          transform: rotate(16deg);
+        }
+        100% {
+          transform: rotate(-16deg);
+        }
+      }
+      .title600 {
+        color: #2d2e32;
+        font-family: "Fira Code";
+        font-size: 4em;
+        font-weight: 600;
+        display: inline;
+        margin: 0 auto;
+      }
+      .title {
+        color: #2d2e32;
+        font-family: "Fira Code";
+        font-size: 4em;
+        font-weight: 400;
+        display: inline;
+        margin: 0 auto;
+      }
+      .containerTitle {
+        background: #96f3b2;
+        width: 28rem;
+        margin: 0 auto;
+        display: flex;
+        margin-bottom: 2rem;
+        justify-content: center;
+        box-shadow: 0 6px 31px -2px #96f3b24d;
+      }
+      .container {
+        font-family: "Fira Code";
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+        width: 100%;
+        color: #fff;
+        padding: 4rem 0;
+        background: #2d2e32;
+        box-shadow: 0 6px 31px -2px #96f3b24d;
+        border-radius: 10px;
+        text-align: center;
+      }
+      .subContainer {
+        width: 28rem;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+      }
+      .icon {
+        animation: rotate ease-in-out 1s infinite alternate;
+        margin-bottom: 1rem;
+      }
+      .titleSection {
+        font-weight: 600;
+        margin-top: 2rem;
+      }
+      .divider {
+        margin: 0 0 1rem 0;
+        height: 0.1rem;
+        width: 6rem;
+        border-radius: 1rem;
+        background: #96f3b2;
+      }
+      .containerImagesStacks {
+        display: flex;
+      }
+      .backgroundImg {
+        margin: 0 0.5rem;
+        padding: 0.8rem;
+        border-radius: 250rem;
+        background: #96f3b2;
+      }
+    </style>
+	<div class="container">
+      <div class="containerTitle">
+        <div class="title600">Renan</div>
+        <div class="title">Kanu</div>
+      </div>
+      <div class="subContainer">
+        <div>
+          <div class="icon">👋</div>
+          Meu nome é Renan Santos, sou desenvolvedor desde 2016. Atualmente Dev
+          Mobile, utilizando React Native para criar APPs incríveis.
+        </div>
+      </div>
+      <div class="titleSection">SKILLS</div>
+      <div class="divider"></div>
+      <div class="containerImagesStacks">
+	  	<div class="backgroundImg">
+		  <img align="left" alt="react" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+		</div>
+        <div class="backgroundImg">
+          <img
+            align="left"
+            alt="javascript"
+            height="32"
+            width="32"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"
+          />
+        </div>
+        <div class="backgroundImg">
+          <img
+            align="left"
+            alt="redux"
+            height="32"
+            width="32"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/redux.svg"
+          />
+        </div>
+        <div class="backgroundImg">
+          <img
+            align="left"
+            alt="styled-component"
+            height="32"
+            width="32"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/styled-components.svg"
+          />
+        </div>
+        <div class="backgroundImg">
+          <img
+            align="left"
+            alt="typescript"
+            height="32"
+            width="32"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"
+          />
+        </div>
+        <div class="backgroundImg">
+          <img
+            align="left"
+            alt="kotlin"
+            height="32"
+            width="32"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"
+          />
+        </div>
+        <div class="backgroundImg">
+          <img
+            align="left"
+            alt="php"
+            height="32"
+            width="32"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg"
+          />
+        </div>
+        <div class="backgroundImg">
+          <img
+            align="left"
+            alt="vscode"
+            height="32"
+            width="32"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg"
+          />
+        </div>
+        <div class="backgroundImg">
+          <img
+            align="left"
+            alt="aws"
+            height="32"
+            width="32"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg"
+          />
+        </div>
+        <div class="backgroundImg">
+          <img
+            align="left"
+            alt="docker"
+            height="32"
+            width="32"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg"
+          />
+        </div>
+        <div class="backgroundImg">
+          <img
+            align="left"
+            alt="as"
+            height="32"
+            width="32"
+            src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg"
+          />
+        </div>
+      </div>
+      <div class="titleSection">ESTUDANDO</div>
+      <div class="divider"></div>
+      <div class="containerImagesStacks">
+        <div class="backgroundImg">
+          <img alt="nextjs" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/next-dot-js.svg"/>
+        </div>
+		<div class="backgroundImg">
+		  <img align="left" alt="flutter" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
+		</div>
+      </div>
+    </div>
+</div>
+</foreignObject>
+</svg>
