@@ -47,5 +47,4 @@
 <br />
 
 <img alt="enankanu Github Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renankanu&layout=compact&theme=dracula">
-<img alt="enankanu Github Top Langs" src="./profile.svg">
 
