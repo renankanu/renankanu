@@ -8,7 +8,7 @@
 ### Olá!
 
 ## Eu sou desenvolvedor mobile.
-Atualmente utilizando a stack JavaScript e Flutter para criar APPs.
+Atualmente utilizando a stack Flutter para criar APPs.💙
 
 <br />
 
